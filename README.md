@@ -78,6 +78,6 @@ Results show:
 
 ## 🙌 Acknowledgements
 
-Prof. Greg Gibbons, Prof. Dimitry Isakov, Dr. Sumit Hazra, Dr. Arnab Palit, Dr. Aru Ranjan Singh.
+Prof. Greg Gibbons, Prof. Dimitry Isakov, Dr. Sumit Hazra, Dr. Arnab Palit, Dr. Aru Ranjan Singh, Dr. Akhilesh Kumar
 
 ---
